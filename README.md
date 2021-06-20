@@ -1,2 +1,1 @@
-# flutter-startupnamer
-2020
+# [Startup Name Generator](https://flutter.dev/docs/get-started/codelab)
